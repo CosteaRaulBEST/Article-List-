@@ -1,0 +1,16 @@
+E:\visualstudio\problema info\Article List\Article List\bin\Debug\net5.0\Article List.exe
+E:\visualstudio\problema info\Article List\Article List\bin\Debug\net5.0\Article List.deps.json
+E:\visualstudio\problema info\Article List\Article List\bin\Debug\net5.0\Article List.runtimeconfig.json
+E:\visualstudio\problema info\Article List\Article List\bin\Debug\net5.0\Article List.runtimeconfig.dev.json
+E:\visualstudio\problema info\Article List\Article List\bin\Debug\net5.0\Article List.dll
+E:\visualstudio\problema info\Article List\Article List\bin\Debug\net5.0\Article List.pdb
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\Article List.csproj.AssemblyReference.cache
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\Article List.GeneratedMSBuildEditorConfig.editorconfig
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\Article List.AssemblyInfoInputs.cache
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\Article List.AssemblyInfo.cs
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\Article List.csproj.CoreCompileInputs.cache
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\Article List.dll
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\refint\Article List.dll
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\Article List.pdb
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\Article List.genruntimeconfig.cache
+E:\visualstudio\problema info\Article List\Article List\obj\Debug\net5.0\ref\Article List.dll
